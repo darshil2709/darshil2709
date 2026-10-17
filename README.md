@@ -1,109 +1,113 @@
-<!--
-  Darshil Nanavati — GitHub profile README
-  Keep this profile focused on verified experience, practical projects, and engineering technology.
--->
+# Darshil Nanavati — GitHub Profile
 
-<div align="center">
-
-# Hi, I'm Darshil Nanavati 👋
-
-### Electrical & Computer Engineering · Field Engineering · Practical Software
-
-I enjoy working at the intersection of engineering, field data, and software—turning real-world technical problems into clearer workflows and useful tools.
-
-<p>
-  <a href="https://darshil2709.github.io"><strong>Portfolio</strong></a>
-  &nbsp; • &nbsp;
-  <a href="https://www.linkedin.com/in/darshil-nanavati/"><strong>LinkedIn</strong></a>
-  &nbsp; • &nbsp;
-  <a href="mailto:nanavati.darshil@gmail.com"><strong>Email</strong></a>
+<p align="left">
+  <a href="mailto:nanavati.darshil@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/darshil-nanavati/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/darshil2709"><img src="https://img.shields.io/badge/GitHub-darshil2709-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://darshil2709.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit%20website-0A7EA4?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-</div>
+### About Me
+
+I am an Electrical and Computer Engineering graduate interested in practical engineering technology, data analysis, and software tools that improve real-world workflows. My experience spans field engineering and hands-on technical work, and I enjoy exploring ways to make technical data easier to collect, understand, and use.
 
 ---
 
-## About me
+### Work Experience
 
-- 🎓 Master's graduate in **Electrical and Computer Engineering** from the University of Windsor.
-- 🛠️ Working in field engineering, with an interest in improving technical data collection and field workflows.
-- 💻 Building a portfolio around web development, data analysis, and practical engineering tools.
-- 🌱 Interested in making software that is clear, dependable, and useful in real operating environments.
+- **Field Engineer**  
+  ConeTec Investigations Ltd. · Alberta, Canada  
+  *2026 – Present*  
+  Field testing and data collection, supporting geotechnical investigation workflows and the use of field instrumentation and software.
 
-## Technical toolkit
+- **CNC Machinist**  
+  Sureline Mfg Inc. · Calgary, Alberta, Canada  
+  *Previous role*  
+  Hands-on manufacturing experience with CNC machining and production workflows.
 
-**Web**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222)
-
-**Data & programming**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-495057?style=flat-square)
-
-**Tools & workflow**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
-
-## Featured projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Personal Portfolio</h3>
-      A personal website presenting my background, interests, and work.
-      <br/><br/>
-      <a href="https://github.com/darshil2709/darshil2709.github.io">Repository</a> · <a href="https://darshil2709.github.io">Live site</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 Entertainer Data Analysis</h3>
-      An exploratory data-analysis project focused on examining and communicating insights from a dataset.
-      <br/><br/>
-      <a href="https://github.com/darshil2709/Entertainer-Data-Analysis">View repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚦 UK Road Safety Accidents 2015</h3>
-      A data exploration project using road-safety accident information.
-      <br/><br/>
-      <a href="https://github.com/darshil2709/UK-Road-Safety-Accidents-2015">View repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🩺 COVID-19 Data Analysis</h3>
-      A public-health data-analysis project exploring COVID-19 data.
-      <br/><br/>
-      <a href="https://github.com/darshil2709/Covid19-Data-analysis">View repository</a>
-    </td>
-  </tr>
-</table>
-
-<details>
-  <summary><strong>More projects</strong></summary>
-  <br/>
-  <strong>Predicting Heart Disease</strong> — a predictive-modelling project.
-  <br/>
-  <a href="https://github.com/darshil2709/Predicting-Heart-Disease">View repository</a>
-</details>
-
-## What I'm focused on
-
-- Creating practical, lightweight tools for technical workflows.
-- Improving how data is collected, organized, and presented.
-- Developing accessible, responsive web projects with clear documentation.
-- Building projects that demonstrate the problem, approach, and result—not just the code.
-
-## Let's connect
-
-I'm interested in engineering technology, field-data workflows, and useful software projects.
-
-- 🌐 [Portfolio website](https://darshil2709.github.io)
-- 💼 [LinkedIn](https://www.linkedin.com/in/darshil-nanavati/)
-- ✉️ [Email me](mailto:nanavati.darshil@gmail.com)
+- **Assistant Store Manager**  
+  True Religion Brand Jeans  
+  *August 2023 – December 2024*  
+  Retail operations, team support, and customer service.
 
 ---
 
-<div align="center">
-  <sub>Thanks for stopping by. Feel free to explore my repositories and projects.</sub>
-</div>
+### Technical Projects
+
+- **[Personal Portfolio](https://darshil2709.github.io)**  
+  My portfolio website, built to present my technical background and projects.  
+  [Repository](https://github.com/darshil2709/darshil2709.github.io)
+
+- **[Entertainer Data Analysis](https://github.com/darshil2709/Entertainer-Data-Analysis)**  
+  Data analysis and dashboards exploring entertainer awards and related trends.  
+  *Tools: Excel, Power BI, MySQL*
+
+- **[UK Road Safety Accidents 2015](https://github.com/darshil2709/UK-Road-Safety-Accidents-2015)**  
+  Explores UK road-safety data, including accident severity and vehicle-type trends.  
+  *Tools: SQL, Python*
+
+- **[COVID-19 Data Analysis](https://github.com/darshil2709/Covid19-Data-analysis)**  
+  Data collection, cleaning, exploratory analysis, and dashboarding to explore pandemic trends.  
+  *Tools: Python, Pandas, NumPy, Matplotlib, Tableau*
+
+- **[Heart Disease Prediction](https://github.com/darshil2709/Predicting-Heart-Disease)**  
+  A machine-learning project comparing classification approaches for heart-disease prediction.  
+  *Tools: Python, Pandas, scikit-learn*
+
+---
+
+### Education
+
+- **University of Windsor**  
+  Master of Engineering (M.Eng.), Electrical and Computer Engineering  
+  *2023*
+
+- **Gujarat Technological University, India**  
+  Bachelor of Technology (B.Tech.), Electronics and Communication Engineering
+
+---
+
+### Technical Skills & Tools
+
+**Programming & Web Development**  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=222222" alt="JavaScript" />
+</p>
+
+**Data Analysis & Business Intelligence**  
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=222222" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+</p>
+
+**Engineering & Field Work**  
+<p>
+  <img src="https://img.shields.io/badge/Field%20Data%20Collection-355E3B?style=flat" alt="Field data collection" />
+  <img src="https://img.shields.io/badge/Geotechnical%20Testing-355E3B?style=flat" alt="Geotechnical testing" />
+  <img src="https://img.shields.io/badge/Electrical%20%26%20Computer%20Engineering-375A7F?style=flat" alt="Electrical and computer engineering" />
+</p>
+
+**Development Workflow**  
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=githubpages&logoColor=white" alt="GitHub Pages" />
+</p>
+
+---
+
+### Let's Connect
+
+I'm interested in engineering technology, field-data workflows, data analysis, and practical software projects.
+
+- Portfolio: [darshil2709.github.io](https://darshil2709.github.io)
+- LinkedIn: [linkedin.com/in/darshil-nanavati](https://www.linkedin.com/in/darshil-nanavati/)
+- Email: [nanavati.darshil@gmail.com](mailto:nanavati.darshil@gmail.com)
