@@ -1,113 +1,113 @@
-# Darshil Nanavati — GitHub Profile
+# Darshil Nanavati Profile
 
-<p align="left">
-  <a href="mailto:nanavati.darshil@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/darshil-nanavati/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/darshil2709"><img src="https://img.shields.io/badge/GitHub-darshil2709-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://darshil2709.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit%20website-0A7EA4?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-</p>
+[![Email](https://img.shields.io/badge/Email-2196f3.svg?logo=gmail&logoColor=white)](mailto:nanavati.darshil@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshil-nanavati/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/darshil2709)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2196f3.svg?logo=googlechrome&logoColor=white)](https://darshil2709.github.io)
 
-### About Me
+### 👨🏻‍💻 About Me
 
-I am an Electrical and Computer Engineering graduate interested in practical engineering technology, data analysis, and software tools that improve real-world workflows. My experience spans field engineering and hands-on technical work, and I enjoy exploring ways to make technical data easier to collect, understand, and use.
+I am an Electrical and Computer Engineering graduate with hands-on experience in field engineering and manufacturing, and a strong interest in practical technology, data analysis, and software tools. I enjoy exploring ways to improve technical workflows, make field data easier to work with, and turn complex information into clear, useful insights.
 
----
+<hr>
 
-### Work Experience
+### 💼 Work Experience
 
-- **Field Engineer**  
-  ConeTec Investigations Ltd. · Alberta, Canada  
-  *2026 – Present*  
-  Field testing and data collection, supporting geotechnical investigation workflows and the use of field instrumentation and software.
+- **Field Engineer**\
+  _ConeTec Investigations Ltd._\
+  Alberta, Canada\
+  May 2026 – Present
 
-- **CNC Machinist**  
-  Sureline Mfg Inc. · Calgary, Alberta, Canada  
-  *Previous role*  
-  Hands-on manufacturing experience with CNC machining and production workflows.
+- **CNC Machinist**\
+  _Sureline Mfg Inc._\
+  Calgary, Alberta, Canada\
+  Through April 2026
 
-- **Assistant Store Manager**  
-  True Religion Brand Jeans  
-  *August 2023 – December 2024*  
-  Retail operations, team support, and customer service.
+- **Assistant Store Manager**\
+  _True Religion Brand Jeans_\
+  August 2023 – December 2024
 
----
+<hr>
 
-### Technical Projects
+### 📂 Technical Projects
 
-- **[Personal Portfolio](https://darshil2709.github.io)**  
-  My portfolio website, built to present my technical background and projects.  
-  [Repository](https://github.com/darshil2709/darshil2709.github.io)
+- **[Personal Portfolio](https://darshil2709.github.io)** — My portfolio website showcasing my background and projects.
+- **[Entertainer Data Analysis](https://github.com/darshil2709/Entertainer-Data-Analysis)** — Analysis and dashboards exploring entertainer awards and trends.
+- **[UK Road Safety Accidents 2015](https://github.com/darshil2709/UK-Road-Safety-Accidents-2015)** — SQL and Python analysis of accident severity and vehicle types.
+- **[COVID-19 Data Analysis](https://github.com/darshil2709/Covid19-Data-analysis)** — Data cleaning, exploratory analysis, and visualization of pandemic trends.
+- **[Heart Disease Prediction](https://github.com/darshil2709/Predicting-Heart-Disease)** — A machine-learning project comparing classification approaches.
 
-- **[Entertainer Data Analysis](https://github.com/darshil2709/Entertainer-Data-Analysis)**  
-  Data analysis and dashboards exploring entertainer awards and related trends.  
-  *Tools: Excel, Power BI, MySQL*
+<hr>
 
-- **[UK Road Safety Accidents 2015](https://github.com/darshil2709/UK-Road-Safety-Accidents-2015)**  
-  Explores UK road-safety data, including accident severity and vehicle-type trends.  
-  *Tools: SQL, Python*
+### 🎓 Education
 
-- **[COVID-19 Data Analysis](https://github.com/darshil2709/Covid19-Data-analysis)**  
-  Data collection, cleaning, exploratory analysis, and dashboarding to explore pandemic trends.  
-  *Tools: Python, Pandas, NumPy, Matplotlib, Tableau*
+- **University of Windsor**\
+  _Master of Engineering (M.Eng.)_\
+  Electrical and Computer Engineering\
+  2023
 
-- **[Heart Disease Prediction](https://github.com/darshil2709/Predicting-Heart-Disease)**  
-  A machine-learning project comparing classification approaches for heart-disease prediction.  
-  *Tools: Python, Pandas, scikit-learn*
+- **Gujarat Technological University, India**\
+  _Bachelor of Technology (B.Tech.)_\
+  Electronics and Communication Engineering
 
----
+<hr>
 
-### Education
+### 💪 Technical Skills & Tools
 
-- **University of Windsor**  
-  Master of Engineering (M.Eng.), Electrical and Computer Engineering  
-  *2023*
+<table>
+  <tr>
+    <td valign="top"><strong>Programming & Web Development</strong></td>
+    <td valign="top">
+      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white">
+      <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white">
+      <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white">
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Data Analysis & Business Intelligence</strong></td>
+    <td valign="top">
+      <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1.svg?logo=mysql&logoColor=white">
+      <img alt="Microsoft Excel" src="https://img.shields.io/badge/Excel-217346.svg?logo=microsoftexcel&logoColor=white">
+      <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?logo=powerbi&logoColor=black">
+      <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?logo=tableau&logoColor=white">
+      <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
+      <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white">
+      <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E.svg?logo=scikitlearn&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Databases & Reporting</strong></td>
+    <td valign="top">
+      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white">
+      <img alt="Power BI dashboards" src="https://img.shields.io/badge/Dashboards-495057.svg">
+      <img alt="Data Visualization" src="https://img.shields.io/badge/Data%20Visualization-495057.svg">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Engineering & Field Work</strong></td>
+    <td valign="top">
+      <img alt="Electrical and Computer Engineering" src="https://img.shields.io/badge/Electrical%20%26%20Computer%20Engineering-375A7F.svg">
+      <img alt="Field Data Collection" src="https://img.shields.io/badge/Field%20Data%20Collection-355E3B.svg">
+      <img alt="CPT" src="https://img.shields.io/badge/CPT-355E3B.svg">
+      <img alt="SCPT" src="https://img.shields.io/badge/SCPT-355E3B.svg">
+      <img alt="GCPT" src="https://img.shields.io/badge/GCPT-355E3B.svg">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><strong>Development Workflow</strong></td>
+    <td valign="top">
+      <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white">
+      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white">
+      <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?logo=githubpages&logoColor=white">
+    </td>
+  </tr>
+</table>
 
-- **Gujarat Technological University, India**  
-  Bachelor of Technology (B.Tech.), Electronics and Communication Engineering
+<hr>
 
----
+### 🤝 Let's Connect
 
-### Technical Skills & Tools
-
-**Programming & Web Development**  
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=222222" alt="JavaScript" />
-</p>
-
-**Data Analysis & Business Intelligence**  
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=222222" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-</p>
-
-**Engineering & Field Work**  
-<p>
-  <img src="https://img.shields.io/badge/Field%20Data%20Collection-355E3B?style=flat" alt="Field data collection" />
-  <img src="https://img.shields.io/badge/Geotechnical%20Testing-355E3B?style=flat" alt="Geotechnical testing" />
-  <img src="https://img.shields.io/badge/Electrical%20%26%20Computer%20Engineering-375A7F?style=flat" alt="Electrical and computer engineering" />
-</p>
-
-**Development Workflow**  
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=githubpages&logoColor=white" alt="GitHub Pages" />
-</p>
-
----
-
-### Let's Connect
-
-I'm interested in engineering technology, field-data workflows, data analysis, and practical software projects.
-
-- Portfolio: [darshil2709.github.io](https://darshil2709.github.io)
-- LinkedIn: [linkedin.com/in/darshil-nanavati](https://www.linkedin.com/in/darshil-nanavati/)
-- Email: [nanavati.darshil@gmail.com](mailto:nanavati.darshil@gmail.com)
+- **Portfolio:** [darshil2709.github.io](https://darshil2709.github.io)
+- **LinkedIn:** [linkedin.com/in/darshil-nanavati](https://www.linkedin.com/in/darshil-nanavati/)
+- **Email:** [nanavati.darshil@gmail.com](mailto:nanavati.darshil@gmail.com)
