@@ -23,10 +23,6 @@ I am an Electrical and Computer Engineering graduate with hands-on experience in
   Calgary, Alberta, Canada\
   Through April 2026
 
-- **Assistant Store Manager**\
-  _True Religion Brand Jeans_\
-  August 2023 – December 2024
-
 <hr>
 
 ### 📂 Technical Projects
